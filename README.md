@@ -1,8 +1,11 @@
-# Machine Learning Applications Project
+# Statistics, Data Analysis and Machine Learning Project
+This project was created as part of a school assignment in Statistics and Data Analysis. 
+The purpose was to apply a complete machine learning workflow and demonstrate how models 
+can be used in simple applications.
 
-This project was created as part of a school assignment in Machine Learning. The purpose is to apply a complete ML workflow and demonstrate how models can be used in simple applications.
+The project includes multiple exercises covering both regression and classification, 
+along with two Streamlit applications.
 
-The project includes different ML tasks such as regression and classification, along with two Streamlit applications.
 
 ## Applications
 
@@ -14,13 +17,15 @@ Predicts the price of a car based on features such as brand, mileage, engine siz
 Allows the user to draw a digit and get a prediction using a trained model.  
 [MNIST App](https://mnist-digit-app.streamlit.app/)
 
+
 ## Project Content
 
 - Data preprocessing and feature engineering  
 - Training and evaluation of ML models  
 - Use of pipelines and cross-validation  
 - Saving and loading models with joblib  
-- Building simple user interfaces with Streamlit  
+- Building simple applications with Streamlit
+
 
 ## Technologies Used
 
